@@ -1,0 +1,20 @@
+body {
+	background: url(../images/banner-img.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center center;
+}
+
+
+.logo{
+	display: inline-block;
+	width: 100%;
+	vertical-align: top;
+	text-align: center;
+}
+
+
+.logo img {
+	display: inline-block;
+}

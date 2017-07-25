@@ -1,0 +1,39 @@
+body {
+	background: url(../images/banner-img.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center center;
+}
+
+
+.logo{
+	display: inline-block;
+	width: 100%;
+	vertical-align: top;
+	text-align: center;
+}
+
+
+.logo img {
+	display: inline-block;
+	max-width: 21%;
+}
+
+.content-field {
+	background: rgba(0,0,0,0.5);
+	display: inline-block;
+	width: 100%;
+	text-align: center;
+}
+
+
+.content-field h3{
+	color: #d30a0a;
+	font-size: 30px;
+}
+
+.content-field p {
+	color: #003368;
+	 font-size: 22px
+}
